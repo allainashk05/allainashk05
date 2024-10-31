@@ -1,4 +1,4 @@
-![logo](https://github.com/allainashk05/allainashk05/blob/main/Black%20and%20Blue%20Bold%20Business%20Promo%20LinkedIn%20Article%20Cover%20Image.png)
+![logo](https://github.com/allainashk05/allainashk05/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Allaina Mubeen</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
